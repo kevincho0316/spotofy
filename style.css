@@ -1,0 +1,19 @@
+body {
+    background-color: #181922;
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+    width: 300px;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+   }/*
+  .welcome {
+      text-align: center;
+      
+      color: white;
+      background-color: black;
+
+    }
+  .player {
+   background-color: black;
+    } */
