@@ -1,4 +1,4 @@
-# spotoy
+# spotofy
 spotofy is html base interactable window a spotify widget
 
 ## usage
