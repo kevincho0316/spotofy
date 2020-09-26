@@ -21,5 +21,6 @@ after the code is generated youcan pasted instead of
 </code></pre>
 this code and you just need to edit <pre><code>height="380"</code></pre> to <pre><code>height="800"</code></pre>
 and its done 
+youcan run luncher and clickthe button to go in to the popup player
  
  if you added new song you can just refresh window by presing F5
